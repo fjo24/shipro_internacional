@@ -1,0 +1,82 @@
+/* *{
+	font-family: 'Titillium Web', sans-serif!important;
+} */
+
+.white{
+	color: whitesmoke;
+}
+
+a:focus, a:hover {
+    color:black;
+    text-decoration: none;
+}
+
+.input-large{
+	    width: 100%;
+}
+
+.input-medium{
+	padding-left: 0;
+	    width: 100%;
+}
+
+.input-small{
+	    width: 110%;
+	padding-left: 0;	
+}
+
+.input-total{
+	    background-color: #73879C;
+    color: black;
+    font-weight: bold;
+}
+
+.no-padding-left{
+	padding-left: 0;	
+}
+
+.no-margin-bottom{
+	margin-bottom: 0;
+}
+
+.label_peso_a_calcular{	
+	font-size: 16px;
+    font-weight: bold;
+}
+
+.peso_a_calcular{
+	margin-top: 10px;
+}
+
+.linea_form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1!important;
+    border-top: 1px solid #2A3F54;
+}
+
+.hr-primary{
+  background-image: -webkit-linear-gradient(left, rgba(66,133,244,.8), rgba(66, 133, 244,.6), rgba(0,0,0,0));
+}
+
+.servicio_no_disponible{
+	font-size: 25px;
+}
+
+.logo_proveedor {
+    display: inline;
+}
+
+.estilo_modal{
+	width: 65%;
+}
+
+.modal_mail{
+	width: 100%;
+}
+
+.modal-footer {
+    padding: 15px;
+    text-align: right;
+    border-top: none!important;
+}
